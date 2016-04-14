@@ -26,7 +26,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="212.86268"
+     inkscape:cx="175.99211"
      inkscape:cy="76.175322"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -78,28 +78,31 @@
        sodipodi:absref="C:\Users\Vitus\Desktop\simon\img\sponge.jpg"
        y="25.450478"
        x="21.797647"
-       id="image3353"
+       id="joosje"
        xlink:href="file:///C:/Users/Vitus/Desktop/simon/img/sponge.jpg"
        preserveAspectRatio="none"
        height="50.977119"
-       width="77.623016" />
+       width="77.623016"
+       inkscape:label="#image3353" />
     <image
        sodipodi:absref="C:\Users\Vitus\Desktop\simon\img\garfield.jpg"
        y="17.572294"
        x="361.384"
-       id="image3364"
+       id="maurice"
        xlink:href="file:///C:/Users/Vitus/Desktop/simon/img/garfield.jpg"
        preserveAspectRatio="none"
        height="79.86544"
-       width="103.53674" />
+       width="103.53674"
+       inkscape:label="#image3364" />
     <image
        sodipodi:absref="C:\Users\Vitus\Desktop\simon\img\ppg.png"
        y="149.5609"
        x="96.106018"
-       id="image3375"
+       id="lisa"
        xlink:href="file:///C:/Users/Vitus/Desktop/simon/img/ppg.png"
        preserveAspectRatio="none"
        height="75.497421"
-       width="107.80324" />
+       width="107.80324"
+       inkscape:label="#image3375" />
   </g>
 </svg>
