@@ -7,13 +7,14 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="512"
    height="256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="level2.svg">
   <defs
      id="defs4" />
@@ -30,8 +31,8 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -73,5 +74,32 @@
          id="tspan3072"
          x="-269.71072"
          y="110.53803">aaDim</tspan></text>
+    <image
+       sodipodi:absref="C:\Users\Vitus\Desktop\simon\img\sponge.jpg"
+       y="25.450478"
+       x="21.797647"
+       id="image3353"
+       xlink:href="file:///C:/Users/Vitus/Desktop/simon/img/sponge.jpg"
+       preserveAspectRatio="none"
+       height="50.977119"
+       width="77.623016" />
+    <image
+       sodipodi:absref="C:\Users\Vitus\Desktop\simon\img\garfield.jpg"
+       y="17.572294"
+       x="361.384"
+       id="image3364"
+       xlink:href="file:///C:/Users/Vitus/Desktop/simon/img/garfield.jpg"
+       preserveAspectRatio="none"
+       height="79.86544"
+       width="103.53674" />
+    <image
+       sodipodi:absref="C:\Users\Vitus\Desktop\simon\img\ppg.png"
+       y="149.5609"
+       x="96.106018"
+       id="image3375"
+       xlink:href="file:///C:/Users/Vitus/Desktop/simon/img/ppg.png"
+       preserveAspectRatio="none"
+       height="75.497421"
+       width="107.80324" />
   </g>
 </svg>
